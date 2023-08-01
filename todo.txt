@@ -1,0 +1,43 @@
+[ ]  Architectural Pattern: Implement a solid architecture pattern like Model-View
+-ViewModel (MVVM) or Model-View-Intent (MVI). Demonstrating a good separation of concerns in your codebase is key to show that you can create maintainable, testable, and scalable applications.
+
+[ ]  Clean Code: The quality of your code matters. Follow a style guide consisten
+tly, comment your code where necessary, and use meaningful variable/function names.
+
+[ ]  Use of Latest Android Technologies and APIs: Prove your understanding of the
+latest technologies. Implement Android's latest API features and libraries like
+Jetpack Compose for UI, Coroutines or Flow for asynchronous programming, Hilt for dependency injection, etc.
+
+[ ] Testing: Include unit tests, integration tests, and UI tests using libraries
+like JUnit, Mockito, Espresso, and Robolectric. A well-tested app is a reliable app.
+
+[ ]  Database and Storage: Implement a local database (like Room) for caching data.
+ Demonstrate your knowledge of different storage options (Shared Preferences, Files, SQLite).
+
+4. Security: Ensure your application follows security best practices, such as storing sensitive
+ data securely (with Android Keystore, for instance), using network security
+ measures (like SSL, certificate pinning), and obfuscating code.
+
+6. Network Calls: Use libraries like Retrofit or Ktor for network operations and
+demonstrate handling of network errors gracefully. Also, consider showcasing a sync strategy
+for your app, dealing with online and offline modes.
+
+7. Custom Views and Animations: Implementing some custom views or animations can
+ be a great way to show off your deeper understanding of the Android UI toolkit.
+
+8. Responsive Design: Ensure your app works across a variety of devices and scre
+en sizes, including tablets. You could also include support for different orientations and multi-window mode.
+
+9. Accessibility: Build your app with accessibility in mind. This includes provi
+ding text for screen readers, handling different input methods, and considering color contrast, among other things.
+
+10. Performance Optimization: Prove your knowledge of efficient programming prin
+ciples, like efficient use of memory, battery-efficient programming, and smooth rendering.
+
+12. Continuous Integration/Continuous Deployment (CI/CD): Setup a CI/CD pipeline
+ using tools like GitHub Actions, Bitrise, or Jenkins. It's a valuable skill for automating the build-test-deploy process.
+
+13. Documentation: Write comprehensive README and code documentation. It should
+explain the app's purpose, architecture, libraries used, how to run tests, and how to build and run the app.
+
+
